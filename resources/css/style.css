@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+header {
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold
+}
+nav {
+  flex:1;
+}
+span {
+display: inline-block;
+}
+.logo {
+  flex: 1;
+  color: mediumAquamarine;
+}
